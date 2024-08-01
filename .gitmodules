@@ -1,0 +1,3 @@
+[submodule "dotnet_library"]
+	path = dotnet_library
+	url = https://github.com/figuc1/dotnet_library
